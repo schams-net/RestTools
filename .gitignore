@@ -1,0 +1,14 @@
+*~
+*.bak
+*.idea
+*.project
+*.swp
+*.pyc
+.buildpath
+.cache
+.project
+.session
+.settings
+.TemporaryItems
+.webprj
+nbproject
